@@ -1,0 +1,38 @@
+[
+  {
+    "id": "user-01",
+    "name": "Jacques Gluke",
+    "type": "jgluke",
+    "location": "Ocho Rios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "time": {
+      "start": "2022-02-17T14:30:00",
+      "end": "2022-02-17T16:30:00"
+    }
+  },
+
+  {
+    "id": "user-02",
+    "name": "Wques Gluke",
+    "type": "Wluke",
+    "location": "Wios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "time": {
+      "start": "2022-01-17T14:30:00",
+      "end": "2022-01-17T19:10:00"
+    }
+  },
+
+  {
+    "id": "user-03",
+    "name": "Qques Gluke",
+    "type": "Qluke",
+    "location": "Qios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "time": {
+      "start": "2022-10-17T14:00:00",
+      "end": "2022-12-17T15:29:00"
+    }
+  }
+]
+

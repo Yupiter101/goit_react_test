@@ -1,0 +1,13 @@
+
+.userWrap {
+  background-color:hotpink;
+  width: 500px;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+.icon  {
+  /* display: block; */
+  margin-right: 8px;
+  color: darkcyan;
+}

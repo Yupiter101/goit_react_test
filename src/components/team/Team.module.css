@@ -1,0 +1,12 @@
+
+
+.team {
+  background-color:greenyellow;
+  width: 500px;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+.teamTitle {
+  color: darkgreen;
+}

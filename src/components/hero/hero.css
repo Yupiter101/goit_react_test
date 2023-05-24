@@ -1,0 +1,10 @@
+
+.hero {
+  width: 500px;
+  border: 1px solid black;
+  background-color: yellow;
+}
+
+.hero.is-active {
+  background-color: #569b50;
+}
